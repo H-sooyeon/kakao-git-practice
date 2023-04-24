@@ -1,1 +1,1 @@
-# kakao_git_lecture
+# kakao-git-practice
